@@ -19,13 +19,13 @@ can have many appointments (one-to-many relationships).
   INNER JOIN, subquery, and a view
 
 ## Files
-- `sql/schema.sql`: creates the database and tables
-- `sql/data.sql`: inserts sample data
-- `sql/queries.sql`: example queries and the view
+- `schema.sql`: creates the database and tables
+- `data.sql`: inserts sample data
+- `queries.sql`: example queries and the view
 
 ## How to Run
 1. Open MySQL Workbench (or any MySQL client).
-2. Run `sql/schema.sql`, then `sql/data.sql`, then `sql/queries.sql`.
+2. Run `schema.sql`, then `data.sql`, then `queries.sql`.
 
 ## Technologies
 MySQL, MySQL Workbench
